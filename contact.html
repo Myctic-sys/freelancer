@@ -51,7 +51,13 @@
         <h2 class="section-title">Contact Me</h2>
         <div class="border-bottom"></div>
         <p class="lead">Here is how you can get in touch with me</p>
-        <form data-netlify="true" data-netlify-recaptcha="true" method="POST">
+        <form
+          name="contact"
+          data-netlify="true"
+          data-netlify-recaptcha="true"
+          method="POST"
+        >
+          <input type="hidden" name="form-name" value="contact" />
           <div class="form-fields">
             <input
               type="text"
