@@ -24,7 +24,7 @@ HTML5, SCSS (BEM metodolojisi), CSS Grid/Flexbox ve Owl Carousel kullanılarak g
 ## 🚀 Canlı Demo
 
 Projenin canlı versiyonuna Netlify üzerinden erişebilirsiniz:
-[Freelancer Live Preview](https://freelancer-portal.netlify.app)
+[Freelancer Live Preview](https://frelancer-portal.netlify.app/)
 
 ---
 
